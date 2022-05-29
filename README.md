@@ -29,7 +29,14 @@ a.	For the output units.
 
 b.	For the hidden units.
 
-4.	Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights. 
+4.	Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
+ 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## Algorithm
 1.Import packages
@@ -48,7 +55,7 @@ b.	For the hidden units.
 ```
 /*
 Program to implement ANN by back propagation algorithm.
-Developed by   : P S Chetan
+Developed by   : P S CHETAN
 RegisterNumber :  212220230033
 */
 ```
